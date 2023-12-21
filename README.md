@@ -1,6 +1,14 @@
 # ARMA-REMASTERED  
 Heavily modified arma 3 client to give it the feels of a modern shooter  
 
+# V024(Jan1 2024):
+Rappelling rework  -Done
+New nades mechanics  -Testing
+Slight AI REWORK   -Testing
+VAULTING  -Done
+
+
+
 # V023(DEC13):  
 Major changes to general infantry gunplay and movement
 Major update:  
@@ -35,8 +43,3 @@ reducedRenderDistance = 500; // Set the reduced render distance
 Already committing big changes to the clientside including Tac Sprint, Tac Stance, more fluid movement by reducing input lag and actor momentum  
  
 
-# V024(TBD):
-Rappelling rework  
-New nades mechanics  
-Slight AI REWORK  
-VAULTING  
