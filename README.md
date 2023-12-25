@@ -1,11 +1,14 @@
 # ARMA-REMASTERED  
 Heavily modified arma 3 client to give it the feels of a modern shooter  
 
-# V024(Jan1 2024):
-Rappelling rework  -Done
-New nades mechanics  -Testing
-Slight AI REWORK   -Testing
-VAULTING  -Done
+# V024(Dec25 2023):
+
+Figured out that i want a holiday and gotta focus on my exam so i rushed the update. Everything should work fine by now.
+Performance boost(10%)
+Rappelling rework  
+New nades mechanics 
+Slight AI REWORK   
+VAULTING  
 
 
 
