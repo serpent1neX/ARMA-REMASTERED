@@ -1,6 +1,27 @@
 # ARMA-REMASTERED  
 Heavily modified arma 3 client to give it the feels of a modern shooter  
 
+# V102(Dec27 2023):
+
+Early access release! Much sooner than i anticipated but it's pretty much playable now!
+Changelog:
+Finished vaulting mechanic from v024(No more mid air hanging)
+Performance boost(~10%)
+Reworked night time lighting
+Reworked gun blowback
+Reworked muzzleflash
+Various bugfixes
+Grass/foliage elements now interacts with actors! For example you can clear a bush to make line of sight, in return of worse concealment.
+Looting system enhanced
+ACE Interactive promt
+Ragdoll!!!!!!!
+Hit/flinching animations
+Armor plating rework(Now will allow bullet penetration depends on the context(Armor type, caliber, angle,.....)
+Redesigned all movement animations! Now they look more tactical but is still WIP. The jerkiness will be fixed in later versions
+That's pretty much all, enjoy!
+
+
+
 # V024(Dec25 2023):
 
 Figured out that i want a holiday and gotta focus on my exam so i rushed the update. Everything should work fine by now.
