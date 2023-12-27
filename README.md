@@ -19,7 +19,35 @@ Hit/flinching animations
 Armor plating rework(Now will allow bullet penetration depends on the context(Armor type, caliber, angle,.....)  
 Redesigned all movement animations! Now they look more tactical but is still WIP. The jerkiness will be fixed in later versions  
 That's pretty much all, enjoy!  
-  
+
+  P/S: Init.sqf exposed!
+```
+// Function to disable stamina effects
+stormender_disableStamina = {
+    // Your script to disable stamina effects
+};
+
+// Function to set minimal LOD bias
+stormender_minimalLOD = {
+    // Your script to set minimal LOD bias
+};
+
+// Function to maximize movement fluidity and responsiveness
+stormender_maximizeMovement = {
+    // Your script to maximize movement
+};
+
+// Function to adjust render distance based on player proximity
+stormender_adjustRenderDistance = {
+    // Your script to adjust render distance
+};
+
+// Execute addon initialization functions
+stormender_disableStamina player; // Disable stamina for the player character
+stormender_minimalLOD player; // Set minimal LOD bias for the player character
+stormender_maximizeMovement player; // Maximize movement for the player character
+stormender_adjustRenderDistance player;
+```
 
 
 # V024(Dec25 2023):
@@ -40,7 +68,8 @@ Major update:
 + Minimal LODBIAS: Objects outside of player's Field of View will now render in the lowest LOD Bias available. Should improve performance on lower end rigs.  
 + Minimal rendering: Objects outside of player's Field of View will also be set to minimal rendering distance. This, in theory, should eliminate excess packages.  
 ~EXAMPLE:  
- ``` // Script to dynamically adjust object render distance based on player proximity
+ ``` 
+// Script to dynamically adjust object render distance based on player proximity
 
 // Get the player's position
 _playerPos = getPos player;
