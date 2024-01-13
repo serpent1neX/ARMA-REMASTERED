@@ -1,6 +1,20 @@
 # ARMA-REMASTERED  
 Heavily modified arma 3 client to give it the feels of a modern shooter  
 
+# V122(Jan13 2024):  
+Massive fucking update! Tons of changes, graphics overhaul, 3rd-person focus, performance increase and much more
+Changelogs:  
+\\
+Performance increased by ~35% for avg.fps thanks to the rewrite of render scale and LOD Bias for objects  
+A polished and repositioned third person camera, along with Overtheshoulder aim for guns. Compatible with lasers!
+Mass graphics overhaul. Now texture has its own thread for rendering and foliage is interactive. Eg: Grass gets flatted out when player step on it, or trees wiggle to the wind(weather effects coming in the next update)
+Modernized controls
+More cosmetics, namely FUTURA Combat glasses as mastery
+\\
+
+  
+
+
 # V102(Dec27 2023):
   
 Early access release! Much sooner than i anticipated but it's pretty much playable now!  
