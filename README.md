@@ -8,11 +8,11 @@ Massive fucking update! Tons of changes, graphics overhaul, 3rd-person focus, pe
 Changelogs:  
 
 ``
-Performance increased by ~35% for avg.fps thanks to the rewrite of render scale and LOD Bias for objects  
-A polished and repositioned third person camera, along with Overtheshoulder aim for guns. Compatible with lasers!
-Mass graphics overhaul. Now texture has its own thread for rendering and foliage is interactive. Eg: Grass gets flatted out when player step on it, or trees wiggle to the wind(weather effects coming in the next update)
-Modernized controls
-More cosmetics, namely FUTURA Combat glasses as mastery
++Performance increased by ~35% for avg.fps thanks to the rewrite of render scale and LOD Bias for objects    
++A polished and repositioned third person camera, along with Overtheshoulder aim for guns. Compatible with lasers!  
++Mass graphics overhaul. Now texture has its own thread for rendering and foliage is interactive. Eg: Grass gets flatted out when player step on it, or trees wiggle to the wind(weather effects coming in the next update)  
++Modernized controls  
++More cosmetics, namely FUTURA Combat glasses as mastery  
 ``
   
   
