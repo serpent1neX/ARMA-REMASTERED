@@ -1,6 +1,15 @@
 # ARMA-REMASTERED  
 Heavily modified arma 3 client to give it the feels of a modern shooter  
 
+# V134(Feb3 2024):   
+The AI overhaul is there!   
+Changelogs:   
++AI are now optimized by limiting cpu time of units further than 250m away from the player   
++AI now has navmesh generated upon mission start. This gives them the ability of navigating indoors environments and utilizing outdoor covers   
++AI locomotion has been improved. Now they can crouchrun, dive to prone and other player-like movement actions   
++AI morale- AI will now panic if being surprise attacked(25% chance), leaving them vulnerable to supressive fire as they struggle to find covers. If AI morale drops below 35%, they will attempt to retreat   
+That's pretty much it. Have a good day
+
 # V122(Jan13 2024):   
 
 Massive fucking update! Tons of changes, graphics overhaul, 3rd-person focus, performance increase and much more  
