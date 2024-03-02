@@ -10,6 +10,8 @@ Changelogs:
 +AI morale- AI will now panic if being surprise attacked(25% chance), leaving them vulnerable to supressive fire as they struggle to find covers. If AI morale drops below 35%, they will attempt to retreat   
 That's pretty much it. Have a good day
 
+Edit: I forgot that i also updated the self-interact ACE interface into a non-mouselocked wheel for an easier life.   
+
 # V122(Jan13 2024):   
 
 Massive fucking update! Tons of changes, graphics overhaul, 3rd-person focus, performance increase and much more  
